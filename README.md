@@ -70,7 +70,7 @@ void loop() {
 <br/>
 
 ## CIRCUIT DIAGRAM:
-![image](https://github.com/AmruthaRajsheker/Control-of-Relay-Using-IoT-controller/assets/119475943/fcb55d84-11ab-494a-afa8-6158aa514f45)
+![image](https://github.com/AmruthaRajsheker/Control-of-Relay-Using-IoT-controller/assets/119475943/597aea68-bb86-49e3-8683-71d418a360a3)
 
 ## OUTPUT:
 ![image](https://github.com/AmruthaRajsheker/Control-of-Relay-Using-IoT-controller/assets/119475943/a12cc85e-7249-43b2-b321-a3711cdcfe0f)
